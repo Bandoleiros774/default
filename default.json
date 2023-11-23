@@ -1,0 +1,68 @@
+{
+    "WBUI2": {
+        "settings": {
+            "OpenButton": 0,
+            "HideIcon": false,
+            "HideIconAfter": 60,
+            "IconURL": "https://i.imgur.com/OZ6xOjY.png",
+            "DisableIconText": false,
+            "IconPosition": 0,
+            "IconTextColor": 0,
+            "OpenOnStart": true,
+            "OpenOnStartOnlyNewPlayers": true,
+            "UpdateInterval": 12
+        },
+        "tabs": [
+            {
+                "tab1": {
+                    "layout": 1,
+                    "buttontext": "Bienvenidos",
+                    "title1": "Bienvenidos a Bandoleiros",
+                    "text1": "Queda totalmente prohibido el uso de desventajas del juego (bugs, hacks, exploits...) para raidear y conllevará baneo permanente del servidor. 
+					
+					\n\n\Máximo una base/cueva por tribu.
+
+					\n\n\Máximo 6 personas por tribu y completamente prohibidas las alianzas. 
+
+					\n\n\No se tolerará la falta de educación y respeto bajo ningún concepto.
+					
+					\n\n\Prohibido campear zonas de respawn con torretas, fobs, construcciones que obstruyan la zona o demasiado cercanas.
+
+					\n\n\Obligatorio llevar el mismo nombre de superviviente que en este servidor.
+
+					\n\n\Prohibido la petición de ventaja de algún tipo a admins, ya sea la adquisición de algún ítem, de alguna base, de algún dino, algún tipo de información...
+
+					\n\n\Estar en el discord es requisito fundamental y obligatorio.
+
+					\n\n\Terminantemente prohibido hacer undermesh
+
+					\n\n\Prohibido nombre de superviviente como: 123, humano,Bob...
+
+					\n\n\Prohibido construir torretas en dinos.
+					
+					Se permite secuestrar con esposas, siempre un maximo de 15m ( Se hace excepción de la norma si es en medio de raid, un maximo de 30m ) ",
+                    "imageurl": "https://i.imgur.com/mGt3cAF.png"
+                }
+            },
+            {
+                "tab2": {
+                    "layout": 2,
+                    "buttontext": "Welcome",
+                    "title1": "INI settings:",
+                    "text1": "<TextStyle.LightBlue>Ini Header:</>\n\n\\[WBUI2]\n\n\nINI-Options:\n\nJsonURL=\"url\"  -  default: \"https://raw.githubusercontent.com/DC-Modding/WBUI2-Wiki/main/default.json\"\n\nYou have to host the file as \"raw\" somewhere and enter the URL to it wrapped in \" \". You can use github (linked below). After uploading the file you'll find a button called \"raw\". click the button and copy the URL. Or use any other hosting site which offers linking to a raw JSON output.\n\nFor a more detailed instruction checkout the Wiki linked down below.\n\n\nYou can trigger an update of the JSON via console command:\ncheat scriptcommand WBUI2 update",
+
+                }
+            }
+        ],
+        "links": [
+            {
+                "link1": {
+                    "text": "Discord",
+                    "url": "https://discord.gg/rYF9jNwZSX"
+                }
+            },
+   
+            }
+        ]
+    }
+}
